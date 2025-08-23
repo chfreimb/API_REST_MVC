@@ -51,24 +51,6 @@ A estrutura de pastas principal pode ser encontrada [aqui](https://github.com/ch
 * Maven
 ***
 
-## **Como Executar**
-
-Clonar o repositório
-
-git clone https://github.com/seu-usuario/pedido-mvc-api.git
-
-cd pedido-mvc-api
-
-
-Compilar e rodar a aplicação
-
-mvn spring-boot:run
-
-
-A aplicação estará disponível em:
-
-http://localhost:8080
-*** 
 ## **Endpoints Disponíveis**
 
 | Método | Endpoint                     | Descrição                          |
