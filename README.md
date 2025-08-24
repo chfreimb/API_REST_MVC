@@ -6,9 +6,9 @@ A aplicação gerencia Pedidos, permitindo operações CRUD completas, além de 
 
 **Controller**: Camada que expõe os endpoints REST e processa requisições HTTP.
 
-**Service**: Contém as regras de negócio e orquestra as operações.
+**Model/Service**: Contém as regras de negócio e orquestra as operações a serem realizadas no banco de dados.
 
-**Repository**: Responsável pelo acesso a dados (Spring Data JPA).
+**Model/Repository**: Interfaces responsaveis pelo acesso e manipulação de dados (Spring Data JPA).
 
 **Model/Entity**: Estruturas de dados que representam o domínio (Pedido).
 
