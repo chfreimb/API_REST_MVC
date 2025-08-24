@@ -33,11 +33,11 @@ public class Pedido {
         this.id = id;
     }
 
-    public String getnumeroPedido() {
+    public String getNumeroPedido() {
         return numeroPedido;
     }
 
-    public void setnumeroPedido(String numeroPedido) {
+    public void setNumeroPedido(String numeroPedido) {
         this.numeroPedido = numeroPedido;
     }
 
@@ -49,27 +49,27 @@ public class Pedido {
         this.descricao = descricao;
     }
 
-    public Integer getquantidadePedido() {
+    public Integer getQuantidadePedido() {
         return quantidadePedido;
     }
 
-    public void setquantidadePedido(Integer quantidadePedido) {
+    public void setQuantidadePedido(Integer quantidadePedido) {
         this.quantidadePedido = quantidadePedido;
     }
     
-    public String getitemPedido() {
+    public String getItemPedido() {
         return itemPedido;
     }
 
-    public void setitemPedido(String itemPedido) {
+    public void setItemPedido(String itemPedido) {
         this.itemPedido = itemPedido;
     }
 
-    public Double getvalor() {
+    public Double getValor() {
         return valor;
     }
 
-    public void setvalor(Double valor) {
+    public void setValor(Double valor) {
         this.valor = valor;
     }
 
