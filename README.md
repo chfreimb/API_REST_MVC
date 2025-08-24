@@ -51,6 +51,19 @@ A estrutura de pastas principal pode ser encontrada [aqui](https://github.com/ch
 * Maven
 ***
 
+**Como Executar**
+
+* Clonar o repositório
+
+* Compilar e rodar a aplicação
+
+* A aplicação estará disponível para teste na porta `http://localhost:8080`
+
+* A aplicação pode ser testada Pelo Swagger através do link abaixo ou através do Postman usando o endpoint `http://localhost:8080/v1/pedidos`
+  
+[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+
+***
 ## **Endpoints Disponíveis**
 
 | Método | Endpoint                     | Descrição                          |
